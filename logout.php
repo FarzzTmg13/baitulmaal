@@ -10,4 +10,3 @@ header('Location: index.php');
 exit();
 ?>
 
-/*fairuz*/
